@@ -1349,7 +1349,7 @@ a {
 }
 .cid-v2bgPXjnMu {
   display: flex;
-  background-image: url("../../../assets/images/megane-giraud-1536x1024.png");
+  background-image: url("../../../assets/images/megane-giraud-1536x1024.webp");
 }
 .cid-v2bgPXjnMu .mbr-overlay {
   background-color: #000000;
@@ -1583,7 +1583,7 @@ a {
   max-width: 800px;
 }
 .cid-v8R2Uajqz5 .card1 {
-  background-image: url("../../../assets/images/portfolio-mag-1-1256x888.png");
+  background-image: url("../../../assets/images/portfolio-mag-1-1256x888.webp");
   background-size: cover;
   background-position: center center;
 }
@@ -1591,7 +1591,7 @@ a {
   background: #ffc195;
 }
 .cid-v8R2Uajqz5 .card2 {
-  background-image: url("../../../assets/images/pmm-5736-2000x1333.jpeg");
+  background-image: url("../../../assets/images/pmm-5736-2000x1333.webp");
   background-size: cover;
   background-position: center center;
 }
@@ -1599,7 +1599,7 @@ a {
   background: #ffd7ef;
 }
 .cid-v8R2Uajqz5 .card3 {
-  background-image: url("../../../assets/images/dome-mediation-numerique-textile-megane-giraud-3-640x480.jpg");
+  background-image: url("../../../assets/images/dome-mediation-numerique-textile-megane-giraud-3-640x480.webp");
   background-size: cover;
   background-position: center center;
 }
@@ -1607,7 +1607,7 @@ a {
   background: #ffea64;
 }
 .cid-v8R2Uajqz5 .card4 {
-  background-image: url("../../../assets/images/logo-effet-papier-1920x1080.png");
+  background-image: url("../../../assets/images/logo-effet-papier-1920x1080.webp");
   background-size: cover;
   background-position: center center;
 }
@@ -1707,7 +1707,7 @@ a {
   max-width: 800px;
 }
 .cid-v8S7GMNAjk .card1 {
-  background-image: url("../../../assets/images/epoque-caen-24-703x703.png");
+  background-image: url("../../../assets/images/epoque-caen-24-703x703.webp");
   background-size: cover;
   background-position: center center;
 }
@@ -1715,7 +1715,7 @@ a {
   background: #ffc195;
 }
 .cid-v8S7GMNAjk .card2 {
-  background-image: url("../../../assets/images/labeo-500x500.png");
+  background-image: url("../../../assets/images/labeo-500x500.webp");
   background-size: cover;
   background-position: center center;
 }
@@ -1723,7 +1723,7 @@ a {
   background: #ffd7ef;
 }
 .cid-v8S7GMNAjk .card3 {
-  background-image: url("../../../assets/images/livre-paris-500x500.png");
+  background-image: url("../../../assets/images/livre-paris-500x500.webp");
   background-size: cover;
   background-position: center center;
 }
@@ -1731,7 +1731,7 @@ a {
   background: #ffea64;
 }
 .cid-v8S7GMNAjk .card4 {
-  background-image: url("../../../assets/images/pluriels-500x500.png");
+  background-image: url("../../../assets/images/pluriels-500x500.webp");
   background-size: cover;
   background-position: center center;
 }
@@ -1841,6 +1841,9 @@ a {
   max-width: 800px;
 }
 .cid-v8R5cuqLW9 .mbr-section-title {
+  color: #ffd7ef;
+}
+.cid-v8R5cuqLW9 .mbr-section-subtitle {
   color: #ffd7ef;
 }
 .cid-v8Rfif6iIU {
@@ -2730,6 +2733,64 @@ a {
   text-align: left;
 }
 .cid-v8R9LqBxb2 .content-head {
+  max-width: 800px;
+}
+.cid-v93WLzi7Gf {
+  padding-top: 1rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+.cid-v93WLzi7Gf .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-v93WLzi7Gf .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-v93WLzi7Gf .image-wrap img {
+  width: 100%;
+}
+@media (min-width: 992px) {
+  .cid-v93WLzi7Gf .image-wrap img {
+    display: block;
+    margin: auto;
+  }
+}
+.cid-v93WLzi7Gf .row-links {
+  width: 100%;
+  justify-content: center;
+}
+.cid-v93WLzi7Gf .header-menu {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  padding: 0;
+  margin-bottom: 0;
+}
+.cid-v93WLzi7Gf .header-menu li {
+  padding: 0 1rem 1rem 1rem;
+}
+.cid-v93WLzi7Gf .header-menu li p {
+  margin: 0;
+}
+.cid-v93WLzi7Gf .mbr-section-title {
+  color: #232323;
+}
+.cid-v93WLzi7Gf .header-menu-item {
+  color: #ffffff;
+}
+.cid-v93WLzi7Gf .mbr-text,
+.cid-v93WLzi7Gf .mbr-section-btn {
+  color: #232323;
+  text-align: left;
+}
+.cid-v93WLzi7Gf .content-head {
   max-width: 800px;
 }
 .cid-v8Rfif6iIU {
@@ -4287,7 +4348,7 @@ a {
   }
 }
 .cid-v92jIvCfl6 .wrap {
-  background: url("../../../assets/images/background1.jpg");
+  background: url("../../../assets/images/background1.webp");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -4879,8 +4940,52 @@ a {
     padding: 1rem;
   }
 }
+.cid-v940IEVxbf {
+  padding-top: 8rem;
+  padding-bottom: 1rem;
+  background-color: #ffea64;
+}
+.cid-v940IEVxbf .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-v940IEVxbf .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-v940IEVxbf .card-wrapper {
+  background: #393193;
+}
+@media (max-width: 767px) {
+  .cid-v940IEVxbf .card-wrapper {
+    padding: 1.5rem;
+  }
+}
+@media (min-width: 768px) and (max-width: 991px) {
+  .cid-v940IEVxbf .card-wrapper {
+    padding: 2.25rem;
+  }
+}
+@media (min-width: 992px) {
+  .cid-v940IEVxbf .card-wrapper {
+    padding: 4rem;
+  }
+}
+.cid-v940IEVxbf .mbr-text,
+.cid-v940IEVxbf .mbr-section-btn {
+  color: #ffffff;
+}
+.cid-v940IEVxbf .card-title,
+.cid-v940IEVxbf .card-box {
+  text-align: center;
+  color: #ffffff;
+}
 .cid-v92yqWgI2V {
-  padding-top: 6rem;
+  padding-top: 2rem;
   padding-bottom: 6rem;
   background-color: #ffea64;
 }
@@ -4933,6 +5038,48 @@ a {
 .cid-v92yqWgI2V .mbr-tag,
 .cid-v92yqWgI2V .tags-wrapper {
   color: #000000;
+}
+.cid-v943RoyPIq {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+.cid-v943RoyPIq .mbr-text {
+  color: #000000;
+}
+.cid-v943RoyPIq .mbr-section-subtitle {
+  color: #000000;
+}
+.cid-v943RoyPIq .mbr-section-title {
+  color: #000000;
+}
+.cid-v943RoyPIq .img-wrapper img {
+  width: 120px;
+  height: 120px;
+  object-fit: cover;
+  border-radius: 50% !important;
+}
+@media (min-width: 768px) and (max-width: 991px) {
+  .cid-v943RoyPIq .img-wrapper img {
+    width: 120px;
+    height: 120px;
+  }
+}
+@media (max-width: 768px) {
+  .cid-v943RoyPIq .img-wrapper img {
+    width: 80px;
+    height: 80px;
+  }
+}
+.cid-v943RoyPIq .img-wrapper {
+  display: flex;
+}
+.cid-v943RoyPIq .card-text {
+  text-align: center;
+}
+.cid-v943RoyPIq .card-title,
+.cid-v943RoyPIq .img-wrapper {
+  text-align: center;
 }
 .cid-v8Rfif6iIU {
   padding-top: 2rem;
